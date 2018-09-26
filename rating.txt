@@ -1,0 +1,23 @@
+G
+G
+G
+PG
+PG
+PG
+$ratingtype ( 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement , 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement , 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement , 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement , 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement , 4$frequency $ratingelement , 4$frequency $ratingelement and 4$frequency $ratingelement )
+$ratingtype ( 4$frequency $ratingelement , 4$frequency $ratingelement , 4$frequency $ratingelement , 4$frequency $ratingelement and 4$frequency $ratingelement )

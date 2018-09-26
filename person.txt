@@ -1,0 +1,402 @@
+human+ $noun|*noun
+$animal|*animal
+$animal farmer|farmers
+$animal hunter|hunters
+$animal keeper|keepers
+$animal owner|owners
+$animal rider|riders
+$animal watcher|watchers
+$animal wrangler|wranglers
+$animal whisperer|whisperers
+$animal +worshipper|+worshippers
+$event organiser|organisers
+$genre director|directors
+$instrument maker|makers
+$instrument player|players
+$instrument virtuoso|virtuosos
+$land farmer|farmers
+$land +dweller|+dwellers
+$noun analyst|analysts
+$noun collector|collectors
+$noun dealer|dealers
+$noun eater|eaters
+$noun fanatic|fanatics
+$noun inspector|inspectors
+$noun lord|lords
+$noun +lover|+lovers
+$noun maker|makers
+$noun repairman|repairmen
+$noun researcher|researchers
+$object salesman|salesmen
+$noun seller|sellers
+$noun technician|technicians
+$noun thief|thieves
+$noun tycoon|tycoons
+$object researcher|researchers
+$person|*person from $city
+$person|*person from $country
+$person|*person who $shortverb|*shortverb *entity
+$person|*person of the sea
+$person +turned+ $person|*person
+$person 's $relation|*relation
+$sport champion|champions
+$sport promoter|promoters
+pro $sport player|players
+Olympic $sport competitor|competitors
+$sport coach|coaches
+$sport referee|referees
+$sport player|players
+$structure worker|workers
+$structure +dweller|+dwellers
+$structure guard|guards
+$vehicle driver|drivers
+$vehicle maintainer|maintainers
+$vehicle accident survivor|survivors
+$weapon maker|makers
+$weapon master|masters
+$weapon wielder|wielders
+acolyte|acolytes
+acrobat|acrobats
+actor|actors
+acupuncturist|acupuncturists
+admiral|admirals
+adventurer|adventurers
+alien|aliens
+anarchist|anarchists
+angel|angels
+animal trainer|trainers
+arborist|arborists
+archaeologist|archaeologists
+archer|archers
+artificial intelligence|intelligences
+artist|artists
+assassin|assassins
+astrologer|astrologers
+astronomer|astronomers
+astronaut|astronauts
+author|authors
+athlete|athletes
+babe|babes
+babysitter|babysitters
+baby|babies
+baker|bakers
+ballet dancer|dancers
+bandit|bandits
+barbarian|barbarians
+barber|barbers
+bard|bards
+barmaid|barmaids
+beggar|beggars
+bellringer|bellringers
+bellydancer|bellydancers
+billionaire|billionaires
+biker|bikers
+bikini model|models
+bimbo|bimbos
+bird watcher|watchers
+blacksmith|blacksmiths
+bodybuilder|bodybuilders
+botanist|botanists
+boxer|boxers
+bridesmaid|bridesmaids
+bride|brides
+bully|bullies
+burglar|burglars
+bushranger|bushrangers
+busker|buskers
+butcher|butchers
+butler|butlers
+camper|campers
+candlestick maker|makers
+captain|captains
+carnival worker|workers
+carpenter|carpenters
+cartographer|cartographers
+celebrant|celebrants
+centurion|centurions
+chap|chaps
+chav|chavs
+checkout chick|chicks
+cheesemaker|cheesemakers
+chef|chefs
+child|children
+chimneysweep|chimneysweeps
+chorusgirl|chorusgirls
+circus performer|performers
+cleric|clerics
+clown|clowns
+comedian|comedians
+composer|composers
+computer hacker|hackers
+concierge|concierges
+conductor|conductors
+convict|convicts
+cook|cooks
+cop|cops
+corpse|corpses
+coward|cowards
+cowboy|cowboys
+cricketer|cricketers
+criminal|criminals
+cultist|cultists
+cyborg|cyborgs
+dancer|dancers
+demon|demons
+dentist|dentists
+dermatologist|dermatologists
+detective|detectives
+dinosaur|dinosaurs
+diver|divers
+doctor|doctors
+door-to-door $object salesman|salesmen
+dragon|dragons
+drug addict|addicts
+druid|druids
+drummer|drummers
+dude|dudes
+dwarf|dwarves
+economist|economists
+elf|elves
+emo|emos
+engineer|engineers
+ewok|ewoks
+executioner|executioners
+explorer|explorers
+exterminator|exterminators
+fairy|fairies
+farmer|farmers
+father|fathers
+fighter|fighters
+fireman|firemen
+fisherman|fishermen
+florist|florists
+fool|fools
+footballer|footballers
+fundamentalist|fundamentalists
+gangster|gangsters
+gambler|gamblers
+gardener|gardeners
+geek|geeks
+genie|genies
+geologist|geologists
+ghost|ghosts
+gladiator|gladiators
+goblin|goblins
+gold miner|miners
+golfer|golfers
+goth|goths
+governor|governors
+granny|grannies
+gravedigger|gravediggers
+graverobber|graverobbers
+greenkeeper|greenkeepers
+guard|guards
+guy|guys
+gypsy|gypsies
+hag|hags
+hairdresser|hairdressers
+healer|healers
+hedonist|hedonists
+herbologist|herbologists
+hermit|hermits
+hero|heroes
+hipster|hipsters
+historian|historians
+hitman|hitmen
+hobo|hoboes
+hoon|hoons
+horseman|horsemen
+horserider|horseriders
+hotshot|hotshots
+house husband|husbands
+housewife|housewives
+hunter|hunters
+hypnotist|hypnotists
+illusionist|illusionists
+illustrator|illustrators
+imposter|imposters
+interpreter|interpreters
+inventor|inventors
+investigator|investigators
+janitor|janitors
+jerk|jerks
+jester|jesters
+jeweller|jewellers
+jockey|jockeys
+judge|judges
+kid|kids
+king|kings
+kleptomaniac|kleptomaniacs
+knave|knaves
+knight|knights
+lady|ladies
+lawyer|lawyers
+lecturer|lecturers
+libarian|libarians
+lich|liches
+lifeguard|lifeguards
+lord|lords
+loser|losers
+mage|mages
+magician|magicians
+maiden|maidens
+maid|maids
+man|men
+maniac|maniacs
+manicurist|manicurists
+mariner|mariners
+matador|matadors
+mathematician|mathematicians
+mechanic|mechanics
+mermaid|mermaids
+metallurgist|metallurgists
+metalworker|metalworkers
+midget|midgets
+midwife|midwives
+mime|mimes
+misfit|misfits
+missionary|missionaries
+monk|monks
+mother|mothers
+mummy|mummies
+murderer|murderers
+musician|musicians
+musketeer|musketeers
+nanny|nannies
+neckbeard|neckbeards
+necromancer|necromancers
+ne'er-do-well|ne'er-do-wells
+nerd|nerds
+news reader|readers
+ninja|ninjas
+nonentity|nonentities
+nomad|nomads
+noob|noobs
+nun|nuns
+nurse|nurses
+octogenarian|octogenarians
+oracle|oracles
+orphan|orphans
+overlord|overlords
+painter|painters
+paramedic|paramedics
+parking inspector|inspectors
+pensioner|pensioners
+personal trainer|trainers
+person|people
+phone scammer|scammers
+photographer|photographers
+pickpocket|pickpockets
+pilgrim|pilgrims
+pilot|pilots
+pioneer|pioneers
+piper|pipers
+pirate|pirates
+pizza deliverer|deliverers
+plastic surgeon|surgeons
+plumber|plumbers
+poet|poets
+police officer|officers
+policeman|policemen
+politician|politicians
+postman|postmen
+prankster|pranksters
+priest|priests
+princess|princesses
+prison guard|guards
+prisoner|prisoners
+private eye|eyes
+programmer|programmers
+prophet|prophets
+prosecutor|prosecutors
+protester|protesters
+publican|publicans
+punk|punks
+puppeteer|puppeteers
+pyromaniac|pyromaniacs
+queen|queens
+ranger|rangers
+real estate agent|agents
+researcher|researchers
+robot|robots
+rock star|stars
+rodeo clown|clowns
+sailor|sailors
+samurai
+scientist|scientists
+scoundrel|scoundrels
+scriptwriter|scriptwriters
+sculptor|sculptors
+secret agent|agents
+security guard|guards
+senator|senators
+sentinel|sentinels
+serial killer|killers
+servant|servants
+shaman|shamans
+shepherd|shepherds
+shipwright|shipwrights
+shopkeeper|shopkeepers
+sibling|siblings
+singer|singers
+skeleton|skeletons
+skydiver|skydivers
+slacker|slackers
+slave|slaves
+smurf|smurfs
+soldier|soldiers
+solicitor|solicitors
+spammer|spammers
+spirit|spirits
+spy|spies
+stockbroker|stockbrokers
+stripper|strippers
+student|students
+stuntman|stuntmen
+sumo wrestler|wrestlers
+superhero|superheroes
+supermodel|supermodels
+superstar|superstars
+surfer|surfers
+surgeon|surgeons
+symbologist|symbologists
+tailor|tailors
+tattooist|tattooists
+taxidermist|taxidermists
+teacher|teachers
+teen|teens
+teenager|teenagers
+terrorist|terrorists
+thief|thieves
+thug|thugs
+tinker|tinkers
+tourist|tourists
+tradesman|tradesmen
+truck driver|drivers
+twin|twins
+tycoon|tycoons
+underachiever|underachievers
+vampire|vampires
+vandal|vandals
+vet|vets
+vigilante|vigilantes
+villain|villains
+virgin|virgins
+vixen|vixens
+waif|waifs
+waitress|waitresses
+warlock|warlocks
+warlord|warlords
+warrior|warriors
+wedding planner|planners
+wench|wenches
+whaler|whalers
+whinger|whingers
+wimp|wimps
+witch|witches
+wizard|wizards
+woman|women
+writer|writers
+zealot|zealots
+zombie|zombies
+zookeeper|zookeepers

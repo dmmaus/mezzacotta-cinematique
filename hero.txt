@@ -1,0 +1,5 @@
+&
+The $heroadj $heroperson
+$heroadj $heroperson
+$herotitle $heroconcept
+$heroperson $heroconcept

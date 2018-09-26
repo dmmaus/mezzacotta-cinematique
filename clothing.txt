@@ -1,0 +1,71 @@
+$animal onesie|onesies
+$person uniform|uniforms
+apron|aprons
+balaclava|balaclavas
+bandanna|bandannas
+beanie|beanies
+belt|belts
+bikini|bikinis
+blouse|blouses
+bodice|bodices
+boot|boots
+boxer shorts
+bow tie|ties
+bra|bras
+cap|caps
+cargo pants
+coat|coats
+costume|costumes
+dress|dresses
+fur coat|coats
+handkerchief|handkerchiefs
+hat|hats
+headband|headbands
+jacket|jackets
+jerkin|jerkins
+jockstrap|jockstraps
+jumper|jumpers
+jumpsuit|jumpsuits
+kilt|kilts
+kimono|kimonos
+knicker|knickers
+miniskirt|miniskirts
+mumu|mumus
+negligee|negligees
+nightgown|nightgowns
+nightie|nighties
+onesie|onesies
+overalls
+overcoat|overcoats
+pair|pairs of pants
+pair|pairs of shorts
+pair|pairs of underpants
+pinafore|pinafores
+polo|polos
+poncho|ponchos
+pyjama|pyjamas
+raincoat|raincoats
+sandal|sandals
+sarong|sarongs
+scarf|scarfs
+shirt|shirts
+shoe|shoes
+singlet|singlets
+slipper|slippers
+skirt|skirts
+smock|smocks
+sneaker|sneakers
+sock|socks
+stole|stoles
+swimsuit|swimsuits
+toga|togas
+thong|thongs
+tie|ties
+tracksuit|tracksuits
+trunks|trunks
+trenchcoat|trenchcoats
+tunic|tunics
+turban|turbans
+uniform|uniforms
+vest|vests
+waistcoat|waistcoats

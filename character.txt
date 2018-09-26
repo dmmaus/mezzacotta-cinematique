@@ -1,0 +1,12 @@
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+4$personadj $person|*person
+$personadj 4$personadj $person|*person
+the|_ 4$personadj|_ $relation|_ of|_ a|_ 4$personadj $person|*person

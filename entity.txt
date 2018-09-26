@@ -1,0 +1,14 @@
+$relation|*relation
+1$thingadj $quality|*quality
+3$personadj $person|*person
+3$personadj $person|*person
+3$personadj $person|*person
+3$thingadj $noun|*noun
+3$thingadj $noun|*noun
+3$thingadj $noun|*noun
+3$personadj $person|*person
+3$personadj $person|*person
+3$personadj $person|*person
+3$thingadj $noun|*noun
+3$thingadj $noun|*noun
+3$thingadj $noun|*noun

@@ -1,0 +1,56 @@
+aeroplane|aeroplanes
+boat|boats
+bus|buses
+cable car|cars
+caravan|caravans
+cart|carts
+car|cars
+chairlift|chairlifts
+coach|coaches
+crane|cranes
+dinghy|dinghies
+dog sled|sleds
+elevator|elevators
+ferry|ferries
+forklift|forklifts
+glider|gliders
+gondola|gondolas
+hatchback|hatchbacks
+helicopter|helicopters
+hovercraft
+hummer|hummers
+hydrofoil|hydrofoils
+jetboat|jetboats
+jet|jets
+limousine|limousines
+locomotive|locomotives
+lorry|lorries
+minibus|minibuses
+monorail|monorails
+motorbike|motorbikes
+motorcycle|motorcycles
+ocean liner|liners
+plane|planes
+racing car|cars
+raft|rafts
+rowboat|rowboats
+sailing ship|ships
+saloon|saloons
+scooter|scooters
+ship|ships
+shuttle|shuttles
+snowmobile|snowmobiles
+space station|stations
+speedboat|speedboats
+stagecoach|stagecoaches
+starship|starships
+streetcar|streetcars
+submarine|submarines
+taxi|taxis
+train|trains
+tram|trams
+truck|trucks
+ute|utes
+van|vans
+wagon|wagons
+yacht|yachts

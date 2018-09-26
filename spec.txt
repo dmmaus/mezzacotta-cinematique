@@ -1,0 +1,29 @@
+To GENERATE a line of text from a file (given single/plural mode, and capital mode on/off):
+
+Load all the lines from the file. If any line is a & by itself, then turn captial mode ON.
+Choose a random line from the file.
+
+Process the chosen line word by word (separated by spaces), printing out each processed word.
+If capital mode is ON, capitalize the first letter of each word that gets output in this way.
+
+If a word contains | at all, print the characters before the | in single mode, and after it in plural mode.
+If a word begins with $, recursively call GENERATE on the file with that name, in single mode, with the current capital mode.
+If a word begins with *, recurisvely call GENERATE on the file with that name, in plural mode, with the current capital mode.
+If there is a number before the $ or *, then that number is the random chance (out of 10) that this word should be used.
+If a word begins with @ (but is not a @ by itself), then instead of immediately printing the word, store it in a buffer.
+If a @ appears by itself, print the buffered word, if any. Then clear the buffer.
+
+
+NOTES:
+1. The feature for processing @ is to get adverbs to work properly.
+2. Once capital mode is turned ON, it will cascade recursively as ON to all child calls.
+   One result of this, for example, is that movie titles are defined with a & line, and then all words in the title are capitalized.
+   
+   
+POST-PROCESSING
+Rather than directly print out each word as described above, my Python code appends each word onto a string which is then subject to post-processing.
+In this step, the first letter of the generated string is capitalized, and a bunch of defined substitutions occur.   
+
+NOTES:
+1. My Python code seperately builds the movie title and movie plot with their own separate top-level calls to the generate function.
+   This is so that each gets capitalised separately.

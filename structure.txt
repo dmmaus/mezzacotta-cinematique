@@ -1,0 +1,123 @@
+$animal farm
+$thing factory|factories
+$thing shop|shops
+abattoir|abattoirs
+airport|airports
+amphitheatre|amphitheatres
+amusement parlour|parlours
+apartment block|blocks
+apothecary|apothecaries
+aquatic centre|centres
+aqueduct|aqueducts
+arcade|arcades
+arch|arches
+armory|armories
+asylum|asylums
+bakery|bakeries
+bank|banks
+barracks
+bar|bars
+barn|barns
+bathhouse|bathhouses
+bazaar|bazaars
+bowling alley|alleys
+brewery|breweries
+bridge|bridges
+bungalow|bungalows
+casino|casinos
+castle|castles
+catacomb|catacombs
+cathedral|cathedrals
+car park|parks
+chapel|chapels
+church|churches
+cinema|cinemas
+circus|circuses
+clock tower|towers
+college|colleges
+cottage|cottages
+court|courts
+dome|domes
+dungeon|dungeons
+embassy|embassies
+factory|factories
+fire station|stations
+fortification|fortifications
+fortress|fortresses
+foundry|foundries
+fountain|fountains
+garage|garages
+garden|gardens
+ghetto|ghettos
+graveyard|graveyards
+greenhouse|greenhouses
+gym|gyms
+hall|halls
+hangar|hangars
+hospital|hospitals
+hotel|hotels
+house|houses
+hovel|hovels
+hut|huts
+ice rink|rinks
+jail|jails
+labyrinth|labyrinths
+library|libraries
+lighthouse|lighthouses
+lookout|lookouts
+mall|malls
+market|markets
+mausoleum|mausoleums
+maze|mazes
+medina|medinas
+mine|mines
+monastery|monasteries
+mosque|mosques
+motel|motels
+museum|museums
+office|offices
+oil rig|rigs
+opera house|houses
+palace|palaces
+podium|podiums
+police station|stations
+post office|offices
+power plant|plants
+prison|prisons
+pub|pubs
+pyramid|pyramids
+racetrack|racetracks
+railway station|stations
+reactor|reactors
+refinery|refineries
+restaurant|restaurants
+room|rooms
+school|schools
+shack|shacks
+shop|shops
+shrine|shrines
+skyscraper|skyscrapers
+slum|slums
+smelter|smelters
+smithy|smithies
+space station|stations
+spaceport|spaceports
+staircase|staircases
+stadium|stadiums
+statue|statues
+sundial|sundials
+supermarket|supermarkets
+tattoo parlour|parlours
+temple|temples
+tent|tents
+terminal|terminals
+theatre|theatres
+theme park|parks
+tomb|tombs
+tower|towers
+tunnel|tunnels
+village|villages
+university|universities
+warehouse|warehouses
+wharf|wharfs
+winery|wineries

@@ -1,0 +1,16 @@
+&
+the $thingadj $thing
+the $thing of $quality
+the $thingadj $thing of $quality
+the $thingadj $noun
+the $thing of $thingadj $quality
+the $thing of $quality and $quality
+the $quality $thing
+the $thing $thing
+the $thing of *thing
+the 4$thingadj $thing of the $structure
+the 4$thingadj $thing of $place
+the 2$thingadj $thing of the 2$thingadj $thing
+the 3$thingadj $thing of *noun
+the 2$thingadj $thing that $shortverb 2$thingadj *entity
+the $person 's $thing

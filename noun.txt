@@ -1,0 +1,10 @@
+$abstractnoun|*abstractnoun
+$animal|*animal
+$bodypart|*bodypart
+$clothing|*clothing
+$instrument|*instrument
+$object|*object
+$structure|*structure
+$vehicle|*vehicle
+$weapon|*weapon
+$thing|*thing

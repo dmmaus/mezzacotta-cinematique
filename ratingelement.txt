@@ -1,0 +1,21 @@
+$genre $ratingelement
+$ratingadj content
+$ratingadj humour
+$ratingadj imagery
+$ratingadj language
+$ratingadj references
+$ratingadj scenes
+$ratingadj situations
+$ratingadj themes
+$ratingadj violence
+blood
+coarse language
+drug use
+gore
+horror
+nudity
+peril
+sex scenes
+violence
+*noun
+$quality

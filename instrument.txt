@@ -1,0 +1,87 @@
+accordion|accordions
+acoustic guitar|guitars
+alphorn|alphorns
+bagpipe|bagpipes
+banjo|banjos
+bass
+bass guitar|guitars
+bassoon|bassoons
+beatbox|beatboxes
+bell|bells
+bongos
+bugle|bugles
+carillon|carillons
+castanet|castanets
+cello|cellos
+chime|chimes
+clarinet|clarinets
+clavichord|clavichords
+concertina|concertinas
+contrabassoon|contrabassoons
+cor|cors anglais
+cornet|cornets
+cowbell|cowbells
+crwth|crwths
+cymbal|cymbals
+didgeridoo|didgeridoos
+double bass
+drum|drums
+drum machine|machines
+electric guitar|guitars
+english horn|horns
+fife|fifes
+flugelhorn|flugelhorns
+flute|flutes
+french horn|horns
+glass armonica|armonicas
+grand piano|pianos
+guitar|guitars
+harmonica|harmonicas
+harp|harps
+harpsichord|harpsichords
+hurdy gurdy|gurdies
+jug|jugs
+kazoo|kazoos
+keyboard|keyboards
+lute|lutes
+lyre|lyres
+mandolin|mandolins
+maracca|maraccas
+marimba|marimbas
+melodica|melodicas
+mouth organ|organs
+nose flute|flutes
+oboe|oboes
+ocarina|ocarinas
+organ|organs
+pan flute|flutes
+pan pipe|pipes
+piano|pianos
+piccolo|piccolos
+pipe organ|organs
+recorder|recorders
+sackbut|sackbuts
+saxophone|saxophones
+sitar|sitars
+slide whistle|whistles
+spoons
+steel drum|drums
+steel guitar|guitars
+synthesiser|synthesisers
+tambourine|tambourines
+theorbo|theorbos
+theremin|theremins
+tin whistle|whistles
+triangle|triangles
+trombone|trombones
+trumpet|trumpets
+tuba|tubas
+tubular bell|bells
+ukulele|ukuleles
+upright piano|pianos
+viola|violas
+violin|violins
+washboard|washboards
+wobbleboard|wobbleboards
+xylophone|xylophones
+zither|zithers

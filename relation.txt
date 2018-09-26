@@ -1,0 +1,95 @@
+$relation 's $relation|*relation
+$bodypart|*bodypart
+acquaintance|acquaintances
+ancestor|ancestors
+apprentice|apprentices
+archenemy|archenemies
+adopted child|children
+associate|associates
+aunt|aunts
+best friend|friends
+BFF|BFF's
+body|bodies
+bodyguard|bodyguards
+bosom buddy|buddies
+boss|bosses
+boyfriend|boyfriends
+brother|brothers
+brother-in-law|brothers-in-law
+buddy|buddies
+business partner|partners
+caretaker|caretakers
+child|children
+colleague|colleagues
+confidant|confidants
+cousin|cousins
+cousin|cousins once removed
+daughter|daughters
+disciple|disciples
+employee|employees
+enemy|enemies
+ex|exes
+ex-husband|ex-husbands
+ex-wife|ex-wives
+fan|fans
+fairy godmother|godmothers
+father|fathers
+father-in-law|fathers-in-law
+friend|friends
+friend|friends of a friend
+follower|followers
+ghost|ghosts
+girlfriend|girlfriends
+godfather|godfathers
+godmother|godmothers
+grandchild|grandchildren
+granddaughter|granddaughters
+grandfather|grandfathers
+grandmother|grandmothers
+grandparent|grandparents
+grandson|grandsons
+guardian|guardians
+guide|guides
+heir|heirs
+heiress|heiresses
+husband|husbands
+landlord|landlords
+leader|leaders
+life coach|coaches
+life partner|partners
+lover|lovers
+manager|managers
+master|masters
+mentor|mentors
+minion|minions
+mistress|mistresses
+mother|mothers
+mother-in-law|mothers-in-law
+neighbour|neighbours
+nemesis|nemeses
+nephew|nephews
+niece|nieces
+parent|parents
+partner|partners
+plaything|playthings
+priest|priests
+protege|proteges
+pupil|pupils
+relative|relatives
+room-mate|room-mates
+second cousin|cousins
+secretary|secretaries
+servant|servants
+sister|sisters
+sister-in-law|sisters-in-law
+son|sons
+spouse|spouses
+stepdaughter|stepdaughters
+stepfather|stepfathers
+stepmother|stepmothers
+stepson|stepsons
+student|students
+teacher|teachers
+uncle|uncles
+underling|underlings
+wife|wives

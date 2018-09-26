@@ -1,0 +1,19 @@
+bag|bags
+bowl|bowls
+bucket|buckets
+container|containers
+cup|cups
+drawer|drawers
+handful|handfuls
+load|loads
+mouthful|mouthfuls
+packet|packets
+paper bag|bags
+piece|pieces
+plastic bag|bags
+shopping bag|bags
+spoonful|spoonfuls
+suitcase|suitcases
+truckload|truckloads
+tub|tubs
+wheelbarrow load|loads

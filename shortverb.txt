@@ -1,0 +1,314 @@
+absuses|abuse
+accepts|accept
+adores|adore
+admiress|admires
+allows|allow	
+ambushes|ambush
+annoys|annoy
+answers|answer
+appears|appear to
+applies|apply to
+argues|argue with
+arranges|arrange
+arrests|arrest
+attacks|attack
+attracts|attract
+asks|ask
+attacks|attack
+avoids|avoid
+beats|beat
+befriends|befriend
+believes|believe in
+bites|bite
+breaks|break
+brings|bring
+builds|build
+bullies|bully
+burns|burn
+buys|buy
+calls|call
+cares|care for
+carries|carry
+captures|capture
+catches|catch
+changes|change
+chats|chat to
+checks|check	
+chews|chew
+chokes|choke
+chooses|choose
+claims|claim
+cleans|clean
+climbs|climb
+closes|close
+collects|collect
+compares|compare
+complains|complain about
+completes|complete
+connects|connect
+considers|consider
+contacts|contact
+contains|contain
+continues|continue
+controls|control
+cooks|cook
+copies|copy
+counts|count
+creates|create
+crushes|crush
+cuts|cut
+damages|damage
+dances|dance with
+deals|deal
+delivers|deliver
+demands|demand
+denies|deny
+depends|depend on
+describes|describe
+designs|design
+despises|despise
+destroys|destroy
+develops|develop
+disapproves|disapprove of
+discovers|discover
+discusses|discuss
+dislikes|dislike
+divides|divide
+does|do
+does|do nasty things to
+draws|draw
+dresses|dress
+drinks|drink
+drives|drive
+drops|drop
+drowns|drown
+eats|eat
+employs|employ
+enables|enable
+encourages|encourage
+endorses|endorse
+enjoys|enjoy
+examines|examine
+expects|expect
+experiences|experience
+explains|explain
+expresses|express
+extends|extend
+faces|face
+fastens|fasten
+feeds|feed
+feels|feel
+feels|feel like
+fetches|fetch
+fights|fight
+fills|fill
+finds|find
+finishes|finish
+fits|fit
+folds|fold
+follows|follow
+forbids|forbid
+forces|force
+forgets|forget
+forgives|forgive
+forms|form
+frightens|frighten
+gains|gain
+gets|get
+gives|give
+glimpses|glimpse
+grows|grow
+handles|handle
+has|have
+hates|hate
+has|have
+hears|hear
+helps|help
+hides|hide
+hits|hit
+holds|hold
+hugs|hug
+hunts|hunt
+hurts|hurt
+identifies|identify
+imagines|imagine
+improves|improve
+includes|include
+indicates|indicate
+influences|influence
+informs|inform
+introduces|introduce
+investigates|investigate
+invites|invite
+involves|involve
+is|are
+joins|join
+judges|judge
+jumps|jump on
+keeps|keep
+kicks|kick
+kills|kill
+kisses|kiss
+knits|knit
+knocks|knock
+knows|know
+laughs|laugh at
+leads|lead
+learns|learn about
+leaves|leave
+lends|lend
+licks|lick
+likes|like
+links|link
+listens|listen to
+lives|live with
+longs|long for
+looks|look at
+looks|look like
+loses|lose
+loves|love
+makes|make
+manages|manage
+manipulates|manipulate
+marks|mark
+measures|measure
+meets|meet
+melts|melt
+mentions|mention
+minds|mind
+misses|miss
+mixes|mix
+mocks|mock
+moves|move
+needs|need
+notices|notice
+obeys|obey
+obsesses|obsess over
+obtains|obtain
+offends|offend
+offers|offer
+opens|open
+operates|operate on
+orders|order
+owns|own
+passes|pass
+paints|paint
+pays|pay
+performs|perform with
+picks|pick
+picks|pick on
+places|place
+plays|play with
+points|point at
+prays|pray for
+prefers|prefer
+prepares|prepare
+presents|present
+produces|produce
+protects|protect
+provides|provide
+publishes|publish
+pulls|pull
+pulverises|pulverise
+punches|punch
+punishes|punish
+pushes|push
+raises|raise
+reaches|reach
+reads|read
+realizes|realize
+receives|receive
+recognizes|recognize
+records|record
+refuses|refuse
+relates|relate to
+releases|release
+remains|remain with
+remembers|remember
+removes|remove
+replaces|replace
+reports|report
+represents|represent
+requires|require
+returns|return
+reveals|reveal
+revokes|revoke
+rides|ride
+rings|ring
+robs|rob
+rubs|rub
+runs|run with
+salvages|salvage
+saves|save
+sculpts|sculpt
+sees|see
+sells|sell
+sends|send
+serenades|serenade
+serves|serve
+shakes|shake
+shares|share
+shoots|shoot
+shouts|shout at
+shoves|shove
+shows|show
+shuts|shut
+sings|sing with
+sings|sing to
+sits|sit on
+slaps|slap
+smells|smell like
+smiles|smile at
+smokes|smoke
+sounds|sound like
+speaks|speak like
+speaks|speak to
+spies|spy on
+stands|stand on
+starts|start
+stays|stay with
+stops|stop
+studies|study
+suffers|suffer with
+suggests|suggest
+summons|summon
+supplies|supply
+supports|support
+suppresses|supress
+surprises|surprise
+survives|survive
+takes|take
+talks|talk to
+teaches|teach
+tells|tell
+tends|tend to
+tests|test
+thanks|thank
+thinks|think about
+threatens|threaten
+throws|throw
+touches|touch
+trains|train
+travels|travel with
+treats|treat
+turns|turn
+understands|understand
+uses|use
+upsets|upset
+violates|violate
+visits|visit
+waits|wait for
+walks|walk with
+wants|want
+warns|warn
+washes|wash
+watches|watch
+weakens|weaken
+wears|wear
+wins|win
+wipes|wipe
+wishes|wish for
+wonders|wonder about
+works|work with
+worrys|worry about
+writes|write about

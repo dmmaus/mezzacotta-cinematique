@@ -1,0 +1,14 @@
+a $character $verb a $character 5$setting
+$multiple *character 2$groupaside *verb a $character 5$setting
+a $character $verb $multiple *character 5$setting
+$multiple *character 2$groupaside $groupactivity  5$setting
+$multiple *character 2$groupaside *verb $multiple *character 5$setting
+a $character and a $character $groupactivity 5$setting
+a $character , a $character and $multiple *character 2$groupaside $groupactivity 4$setting
+a $character , a $character and their 2$personadj *relation $groupactivity 5$setting
+a $character and a $character *verb their *relation 5$setting
+$multiple *character and a $character 2$groupaside *verb a $character 6$setting
+a $character $verb a $character and $verb a $character 2$setting
+a $character $verb $multiple *character , who $groupactivity 2$setting
+a $character $verb a $character , who $verb $multiple *character 2$setting
+$multiple *character *verb a $character , who $verb a $character 2$setting

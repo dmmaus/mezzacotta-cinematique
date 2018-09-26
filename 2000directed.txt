@@ -1,0 +1,17 @@
+Directed by $2000director
+Directed by $2000director
+Directed by $2000director
+Directed by $2000director
+Written and directed by $2000director
+A 5$thingadj film by $2000director
+A 5$genreadj film by $2000director
+A $2000director film
+$2000director 's most $thingadj film
+The latest film in $2000director 's <i>_ $seriessubject _</i> $series
+From the team that brought you <i>_ $title _</i>
+The sequel to <i>_ $title _</i>
+The epic conclusion to the <i>_ $seriessubject _</i> $series
+The first installment in the <i>_ $seriessubject _</i> $series
+Continuing the <i>_ $seriessubject _</i> $series
+Also known as: <i> $title _</i>
+Distributed in $country as <i> $title _</i>

@@ -1,0 +1,98 @@
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+$specialtitle
+*noun 8$punctuation
+*noun $setting 1$punctuation
+$macguffin
+The 9$personadj $noun
+The 3$personadj $noun of $quality
+The $character and the 5$personadj $noun
+The $character
+The $person of $quality
+The $person with the $thingadj $noun
+The $personadj $person
+$personadj *person
+$personadj $person
+5$personadj $personadj *noun
+The $thingadj $person
+*person $setting
+$relation of $quality
+A $personadj $noun
+A $thingadj $person
+$quality $setting
+$relation of the $noun
+$noun *person
+$thingadj $quality 3$setting
+$quality *person
+*noun and *noun
+*person and *noun
+*noun and *person
+*noun and $quality
+A $person of $quality
+The *noun and the *noun
+The $noun of the *noun
+The $land of 3$thingadj *noun
+4$personadj *person in a 4$thingadj $land
+*person of the 4$thingadj $land
+$quality $relation
+$land of 5$thingadj $quality
+The *entity $preposition the *entity
+*entity $preposition *entity
+The $entity $preposition the $entity
+$preposition *entity
+$noun in $place
+The $quality of $place
+The $land of $place
+The 2$personadj $person of $place
+$abstractnoun
+$noun $story
+$story of *noun
+$noun of the *abstractnoun
+*animal on a $vehicle
+$place $abstractnoun
+A 4$thingadj $event in a 4$thingadj $land
+The $thingadj $event
+*entity at a $event
+$entity $story
+The $story of 2$thingadj *entity
+The $story of the $entity and the $entity
+$story of the $person 's $event
+$quality $place
+The $person 's $noun
+$frequency $quality
+*multiple *relation
+The $noun of $place
+The $person who $shortverb *noun
+*person who *shortverb *entity
+To *shortverb a $noun
+To *shortverb *entity
+The $person 's $entity
+$place $quality
+*person with *entity
+The $person 's $land
+*entity versus *entity
+$noun $personadj
+*shortverb the *person
+$place 's *person
+*person on a $vehicle
+$person $structure
+$entity $land
+$personadj $thingadj $person *animal
+$quality in the $quality
+If you *shortverb the *entity
+When I *shortverb the *entity
+*person of $place
+A $person $shortverb a $entity
+The $ruler of $place
+$quality $ruler
+$quality comes to $place

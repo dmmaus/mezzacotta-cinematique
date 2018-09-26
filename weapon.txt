@@ -1,0 +1,78 @@
+$noun +blade|+blades
+arrow|arrows
+assault rifle|rifles
+axe|axes
+ballista|ballistas
+bastard swords|swords
+battle axe|axes
+battering ram|rams
+bayonet|bayonets
+blaster|blasters
+blowgun|blowguns
+bolas
+bomb|bombs
+bow|bows
+cannon|cannons
+catapult|catapults
+chainsaw|chainsaws
+chopstick|chopsticks
+club|clubs
+crossbow|crossbows
+crossbow bolt|bolts
+dagger|daggers
+falchion|falchions
+fireball|fireballs
+fist|fists
+flail|flails
+garrotte|garrottes
+glaive|glaives
+great axe|axes
+grenade|grenades
+gun|guns
+halberd|halberds
+hammer|hammers
+hand axe|hand axes
+hatchet|hatchets
+javelin|javelins
+katana|katanas
+lance|lances
+laser|lasers
+lirpa|lirpas
+longbow|longbows
+longsword|longswords
+mace|maces
+machete|machettes
+machine gun|guns
+maul|mauls
+morning star|stars
+musket|muskets
+nailgun|nailguns
+net|nets
+nunchuks
+petard|petards
+pike|pikes
+pole arm|arms
+quarterstaff|quarterstaves
+ray gun|guns
+revolver|revolvers
+rifle|rifles
+rocket launcher|launchers
+rock|rocks
+rod|rods
+sickle|sickles
+scimitar|scimitars
+scythe|scythes
+shortbow|shortbows
+shortsword|shortswords
+sling|slings
+speargun|spearguns
+spear|spears
+staff|staffs
+stick|sticks
+sword|swords
+taser|tasers
+trident|tridents
+uzi|uzis
+wand|wands
+warhammer|warhammers
+whip|whips

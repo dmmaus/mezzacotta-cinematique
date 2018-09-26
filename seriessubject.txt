@@ -1,0 +1,10 @@
+&
+$personadj $entity
+$thingadj $entity
+*entity
+$preposition *entity
+$entity $relation
+$entity of $place
+$macguffin
+*entity *shortverb *entity
+$multiple *relation

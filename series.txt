@@ -1,0 +1,9 @@
+series
+trilogy
+quadrilogy
+tetralogy
+sequence
+story
+cycle
+universe
+world

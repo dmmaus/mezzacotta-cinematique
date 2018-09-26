@@ -1,0 +1,223 @@
+#verbs that a group does together, but not "to" another character
+@ *shortverb $macguffin
+@ *shortverb a $instrument player
+@ adopt a pet $animal , but it $verb them
+@ get a pet $animal that $shortverb *entity
+@ adopt a pet $animal , which $verb a $character
+are @ mistaken for $multiple *character
+are @ trapped
+@ become *character
+@ become famous
+@ build a life together
+@ combine the powers of $macguffin with $macguffin
+@ change each other's lives
+@ create $macguffin
+@ declare war on $multiple *character
+@ declare war on one another
+@ decode an ancient prophecy 
+@ destroy $macguffin
+@ disguise themselves as $multiple *character
+@ embark on a journey to $place , but take a wrong turn at $place and end up in $place
+@ embark on a quest to find $macguffin
+@ enact a plan to steal $macguffin
+@ escape from a dangerous situation
+@ fight over a 3$thingadj $noun
+@ fight to the death
+@ fight to the death in a $land with 2$thingadj *weapon
+@ find $macguffin
+@ find $macguffin , and *verb it with a $character
+@ find love in unexpected places
+@ find themselves in a precarious situation with $macguffin
+@ find themselves in an improbable situation involving $multiple *character
+@ form a plot to kill a $character
+@ form a $instrument band
+@ get married
+@ go mad
+@ go on a road trip
+@ go on an amazing adventure
+@ go on vacation together
+@ grow old together
+@ have a 4$noun party
+@ hide $macguffin from a $character
+@ hit a $character in the $bodypart with *weapon
+@ keep $macguffin from $multiple *character
+@ keep a $animal in a 2$thingadj $structure
+@ learn to play the $instrument
+@ make a $thingadj discovery
+@ overcome their fears
+@ perform a play about a $character
+@ plan a 4$noun conspiracy
+@ play a $thingadj game of $noun and $noun
+@ play the $instrument
+@ present $macguffin to a $character , who $verb it
+@ put aside their differences
+@ raise a family together
+@ realise they were in $place all along
+@ recover $macguffin
+@ recover $macguffin , but it $verb a $character
+@ reminisce about the past
+@ return with $macguffin for $multiple *character , who *verb it
+@ save the galaxy with $macguffin
+@ save the world with $macguffin
+@ set out to change the world, one $noun at a time
+@ share a meal
+@ share a series of stories
+@ share their secrets
+@ solve the mystery of the $character who $shortverb *entity
+@ spend the holidays together
+@ go to a $thingadj $event together
+@ stage a protest
+@ start a war over $macguffin
+@ steal $macguffin
+@ swap bodies
+@ compete for the affection of a $character
+are @ caught in a web of lies
+@ take over the world
+@ trade insults
+@ uncover $macguffin
+@ uncover a hidden plot
+@ uncover an ancient conspiracy involving a $thingadj $thing
+@ upgrade $macguffin with a $thing
+@ use $macguffin to *verb a $character
+@ wage war against $multiple *person
+@ walk into a $structure
+@ wind up $setting
+@ witness a crime
+@ escape from a $structure
+@ doom the world
+@ destroy the entire universe
+@ get a disease that makes their *bodypart become $thingadj
+@ celebrate the holiday season
+are @ found dead in a $structure
+@ go on a killing spree
+@ disrupt a $event
+@ strike a $person in the $bodypart with *noun
+@ attack a $character in the $bodypart with 4$thingadj *weapon
+@ concoct a plan to steal all the world's *noun
+@ pay a $character to make their *bodypart *thingadj
+are @ attacked by 5$personadj *animal
+go on a destructive rampage
+@ adventure through a $animal +infested $land
+@ get lost in a $animal +infested $land
+@ journey through a 5$thingadj $land in a 3$thingadj $vehicle
+@ take a $thingadj journey in *vehicle through a $land of $quality
+@ venture forth to a 3$thingadj $land , in search of $macguffin
+@ get their *bodypart turned into *noun by a $character
+@ discover a $land inhabited by $personadj *person
+@ attend a 3$thingadj 3$noun party @ hosted by a $character
+gain superpowers after being @ bitten by a $thingadj $animal
+@ find out just how $personadj they are
+@ dream of a life together without *noun
+@ get their *bodypart surgically swapped
+@ get their *bodypart swapped with their *bodypart
+@ save the world from a $thingadj $person
+@ meet $multiple 5$personadj *character , who $groupactivity
+@ visit a $land inhabited by $personadj *person
+are @ on the trail of a 2$thingadj $person who $shortverb them
+@ move into a 4$thingadj $structure
+@ find a $thingadj $thing that belonged to a $character
+are @ exiled to $place
+@ weave a web of $quality and $quality
+@ travel to $place to take up residence in what they believe is a $structure
+@ *verb $2000act
+@ write a $story called "_ $title _"
+@ *verb a $character 's $bodypart
+@ enter a $sport tournament
+@ win a $sport championship
+@ form a $sport team
+@ become trapped inside a 2$thingadj $structure , and are rescued by *character
+@ go on a 5$thingadj $vehicle journey from $place to $place
+@ have a $event , but a $character makes it $thingadj
+@ hold a $event , but things become $thingadj when a 4$thingadj $person comes along
+@ hold a $event of $quality , but is ruined when a $character $shortverb *entity at it
+@ wind up at a $event
+@ settle their differences
+@ find themselves in a war with $place 's most $thingadj $person
+are @ sent to a 3$thingadj $land , where they *verb a $character
+@ defend their town from an invasion of $thingadj *person
+@ begin to suspect that they are *person
+@ thwart a plan by 5$thingadj *person to take over $place
+@ embark on a covert mission, in which they *shortverb 5$thingadj *noun
+@ serenade a $character on the $instrument
+@ are sent to a 2$thingadj $structure to bring down a gang of $personadj *person
+@ must discover the truth about $macguffin
+@ take on *person , *person and *person to save $place from a $thingadj $thing
+are @ pursued by a pack of 2$thingadj *animal through a $land
+@ encounter a 5$personadj $person who is in desperate need of a $relation
+@ kidnap some *person to steal their *noun
+@ form an underground $noun club
+are @ brought together by a freak accident
+@ flee their home in $place when it falls under attack from 5$thingadj *person
+@ go back in time to prevent their *relation from becoming $personadj
+@ get their *bodypart eaten by 4$thingadj *animal
+@ discover that rumors of a $thingadj $structure are true
+@ battle their way through $place in order to stop a $person , who $verb *character
+@ track and kill *person all over $place
+are @ transported to a $thingadj $land where they must *shortverb a $thingadj $person
+are @ in a race against time to stop the outbreak of the deadly $noun pandemic
+@ seek to learn a spell that turns *person into *noun
+@ battle an invading army of *entity
+@ cross paths with some of $place 's most $personadj inhabitants
+@ find themselves in a 2$thingadj war between two clans of *person
+@ unleash their $quality +powers after being taunted by their *relation
+@ escape from a $structure and trek through the *land of $place to reunite with their *relation
+@ set out for $place , but end up in $place when their journey is sabotaged by $personadj *person
+@ embark upon a pilgrimage to $place to restore their *bodypart which have become $thingadj
+@ *baseverb their *relation
+@ *baseverb themselves
+@ *baseverb each other
+@ *baseverb 4$thingadj *animal
+@ *baseverb $macguffin
+@ *shortverb *character
+@ *shortverb a $character
+must @ bring an end to their *relation ' plan to *shortverb themselves
+@ attempt to *shortverb $macguffin , but it $shortverb them
+must @ *shortverb a $character to save their $personadj *relation
+@ team up to construct $macguffin , but it tries to *shortverb them
+are @ left for dead on a $thingadj planet
+@ work together to survive after being stranded in a $land full of *animal that want to *shortverb them
+@ learn that their *relation are planning to *shortverb a $character
+@ rescue a $character from $personadj *person attacking with 2$thingadj *weapon
+are @ seduced into the lucrative world of $noun fraud
+@ discover just how $thingadj it is to *shortverb *entity
+must @ decide whether or not to *shortverb *entity
+must @ find a way to not *shortverb their *relation
+@ attempt to stop a $character who wants to *shortverb their $personadj *relation
+@ set out to discover why they *shortverb *entity
+@ pursue diverging life paths, until a $character brings them back together to $place
+@ set out to avenge the death of their $relation at the hands of a $character who $shortverb *entity
+@ would have been *person like you, but then they took a $weapon to the $bodypart
+@ discover secret plans of a $entity machine, and construct one
+used to @ *shortverb each other , but that changed with the arrival of a $personadj $character who $shortverb them
+@ learn that their *relation *shortverb *entity
+@ find themselves in a race against time to *shortverb their *relation , who $groupactivity
+are @ embroiled in a $noun +filled caper headed by a $character
+@ immigrate to $place , where they $groupactivity
+@ form a team known as "The 5$thingadj *person " and $groupactivity
+@ ditch their conventional responsibilities for a weekend of overdue $quality , $quality and $thingadj *abstractnoun
+@ hire a $person to *shortverb their *relation , but end up getting much more than they bargained for
+@ become isolated in a $land by an outbreak of $quality + $bodypart
+@ become $country 's best *person when they hit on an idea to *shortverb *noun
+@ decide to *shortverb the most $personadj one of their group
+all @ try to be the first to *shortverb a $person
+@ have a bet regarding who has the most $thingadj $bodypart
+@ battle the $personadj antagonist of the story, who wants to make everybody $personadj
+@ find out that one of their *relation is a $person
+@ go to $place to star in a disastrous remakeof $title
+are @ paid by $country 's government to *baseverb a $character
+@ kill a 4$personadj $character , who rises from the dead to *shortverb them
+@ compete to become the $ruler of $place
+@ form a plan to assassinate the $ruler of $place , but are stopped when a 4$personadj $character $shortverb them
+@ plot against the $ruler of $place with $macguffin
+travel to $place , where they @ *shortverb the local $person
+must @ intervene when their *relation *shortverb their *relation
+@ use $macguffin to go after a monstrous 3$thingadj $animal lurking in a $land
+@ journey to $place , only to find that it is under attack by a $thingadj $person with an army of $thingadj *animal , and their last hope is to find $macguffin
+@ get together for a weekend of $quality , $quality and *noun that culminates with their deaths
+@ help $place 's police solve the case of the $thingadj $noun
+@ fight *person (and each other)
+@ recall the events that led up to their current situation involving a $noun
+are @ sent to $place to *shortverb themselves
+@ team up to battle $hero for control of $place
+are @ rescued by $hero
+@ enroll in a class to learn to *shortverb their *noun

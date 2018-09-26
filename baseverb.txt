@@ -1,0 +1,150 @@
+# verbs that character(s) do to another character
+@ $shortverb|*shortverb
+@ $shortverb|*shortverb
+@ $shortverb|*shortverb
+@ $shortverb|*shortverb
+@ $shortverb|*shortverb
+@ $shortverb|*shortverb
+@ buys|buy a $noun , which turns $thingadj , from
+@ buys|buy a 2$thingadj $object from
+@ competes|compete against
+@ complains|complain about
+@ argues|argue with
+@ embarks|embark upon an epic quest with
+@ endangers|endanger
+@ enters|enter a battle of wits with
+@ escapes|escape the clutches of
+@ exacts|exact revenge upon
+@ falls|fall in love with
+@ fights|fight a legal battle with
+@ finds|find a 2$thingadj $object belonging to
+@ follows|follow in the footsteps of
+@ gets|get a pet $animal , which $verb
+@ gets|get a pet $animal , which bites the $bodypart of
+@ gives|give a 2$thingadj $object to
+@ gives|give a gift to
+@ gives|give advice to
+@ goes|go on a road trip with
+@ goes|go on a shopping spree with
+@ grows|grow up with
+@ imitates|imitate
+@ interviews|interview
+@ uncovers|uncover hidden truths about themselves|themself with
+is|are @ attacked by
+is|are @ betrayed by
+is|are @ betrothed to
+is|are @ caught in an embarassing situation with
+is|are @ challenged by
+is|are @ chased by
+is|are @ employed as
+is|are @ haunted by
+is|are @ hounded by
+is|are @ hunted by
+is|are @ imprisoned by
+is|are @ introduced to
+is|are @ involved in a humorous situation with
+is|are @ mentored by
+is|are @ mistaken for
+is|are @ persecuted by
+is|are @ protected by
+is|are @ rescued by
+is|are @ stalked by
+is|are @ suspected of being
+is|are @ tricked by
+is|are @ troubled by
+is|are @ forced to *shortverb *entity by
+is|are @ persuaded to *shortverb a $entity by
+is|are @ encouraged to live a life of $quality by
+@ kidnaps|kidnap
+@ kills|kill
+@ learns|learn an important life lesson from
+@ mentors|mentor
+@ moves|move in with
+@ performs|perform a secret ritual with
+@ plays|play a game of $quality with
+@ presents|present $macguffin to
+@ proposes|propose to
+@ renovates|renovate a house with
+romantically pursues|pursue
+@ saves|save the life of
+@ scams|scam
+@ sends|send a 2$thingadj $animal to attack
+@ shares|share a meal with
+@ shares|share a room with
+@ shares|share a series of comedic episodes with
+@ shares|share memories with
+@ spends|spend the night with
+@ spies|spy on
+@ stalks|stalk
+@ strikes up an unlikely friendship with
+@ tries|try to spoil the dream of
+@ steals|steal $macguffin from
+@ steals|steal a 2$thingadj $object from
+@ surprises|surprise
+@ talks|talk to
+@ teams|team up with
+@ trains|train to become
+@ tries|try to impress
+@ uncovers|uncover a secret about
+@ uncovers|uncover the shocking secrets of
+@ uses|use $macguffin on
+@ uses|use a|_ 3$thingadj $weapon|*weapon to attack
+@ visits|visit a $structure with
+@ writes|write about
+@ buys|buy a 3$thingadj $object with
+@ assassinates|assassinate
+@ throws|throw a 3$thingadj $object at
+@ turns|turn out to be
+@ visits|visit a $structure owned by
+@ steals|steal the $noun of
+@ tries|try to forget
+@ gives|give birth to
+@ builds|build $macguffin with
+@ inherits|inherit a fortune from
+@ escapes|escape from
+@ gatecrashes|gatecrash a party held by
+@ blows|blow stuff up with
+@ taunts|taunt
+@ performs|perform an experiment on
+@ produces|produce a film about
+@ takes|take on
+@ gets|get into all sorts of 1$thingadj hijinks with
+@ transforms|transform a $noun into
+@ gets|get transformed into
+@ portrays|portray
+@ wins|win a 5$thingadj $noun in a game of $quality from
+@ recruits|recruit
+@ poses|pose as
+@ gets|get dragged into a schoolyard brawl with
+@ repays|repay a 1$thingadj debt to
+@ seeks|seek revenge upon
+@ goes|go toe-to-toe with
+@ searches|search for their missing $relation with
+@ plays|play $sport with
+@ wins|win a game of $sport against
+@ forms|form a $sport team with
+must @ venture into a 5$thingadj $land in order to save
+@ goes|go to a $event with
+@ attends|attend a $event held by
+@ disrupts|disrupt a $event held by
+@ embarks|embark on a journey of $quality with
+@ becomes|become a|_ 5$personadj $person|*person with the help of
+is|are @ granted three wishes by
+is|are @ accused of murdering
+@ grants|grant three wishes to
+@ fulfils|fulfil a dream to become
+@ declares|declare war on
+@ $shortverb|*shortverb a $character with
+@ becomes|become the most $personadj $relation of
+@ goes|go $bodypart +to+ $bodypart with
+@ comes|come out of retirement to *shortverb
+@ goes|go to $place to rescue their $relation who is being held hostage by
+@ finds|find happiness with
+@ joins|join a gang with
+@ protects|protect a 4$thingadj $animal from
+breeds|breed a swarm of *animal and trains them to @ *shortverb
+@ strives|strive to become more $personadj than
+@ turns|turn out to be not as $personadj as
+@ pretends|pretend to be a|_ 5$personadj $person|*person in order to *shortverb
+@ searches|search for evidence that the $ruler of $place is really
+@ attempts|attempt to *shortverb a $character , but is|are stopped by

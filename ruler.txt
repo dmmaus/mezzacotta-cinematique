@@ -1,0 +1,16 @@
+&
+duchess
+duke
+emperor
+empress
+governor
+king
+mayor
+monarch
+president
+prime minister
+prince
+princess
+queen
+sultan
+viceroy

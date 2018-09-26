@@ -1,0 +1,44 @@
+2
+3
+4
+5
+II
+III
+IV
+: $macguffin
+: $noun $noun
+: $noun $quality
+: $quality *noun
+: $quality $relation
+: *noun
+: apocalypse
+: origins
+: rebooted
+: reborn
+: the $quality
+: the $relation
+: retribution
+: the revenge
+: resurrection
+: resurgence
+: $thing of $quality
+: the $thingadj $land
+: the awakening
+: the beginning
+: the gathering
+: this time it's $quality
+: this time it's *noun
+: $place
+: $story of $quality
+: $thingadj $story
+: rise of the $entity
+: the $story continues
+: the quest for $quality
+: *person in *clothing
+part 2
+part 3
+, episode 2
+, episode 3
+: $title
+3D
+: the $thingadj ones
