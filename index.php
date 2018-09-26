@@ -1,5 +1,5 @@
 <?php include('../header_pre.php'); ?>
-<title>mezzacotta Cin&eacute;matique</title>
+<title>mezzacotta Cinématique</title>
 <style type="text/css">
 .main
 {
@@ -128,7 +128,7 @@ Bought to you by <a href="/">mezzacotta</a><br>
 </div>
 
 </div> <!-- id=main -->
-<br class="clear" />
+<br class="clear">
 </div> <!-- id=page -->
 
 </body>

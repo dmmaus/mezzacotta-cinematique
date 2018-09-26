@@ -122,11 +122,11 @@ function randomline($r, $filename, $plural, $cap)
     $capitalise = False;
 
     $file_flags = FILE_IGNORE_NEW_LINES + FILE_SKIP_EMPTY_LINES;
-    if (file_exists($filename . '.txt'))
-        $lines = file($filename . '.txt', $file_flags);
+    if (file_exists("vocabulary/" . $filename . '.txt'))
+        $lines = file("vocabulary/" . $filename . '.txt', $file_flags);
     else
     {
-        return "No such file: " . $filename . '.txt';
+        return "No such file: " . "vocabulary/" . $filename . '.txt';
     }
     
     if (substr($lines[0], 0, 1) == "#")
