@@ -11,7 +11,7 @@ Contributors are welcome to submit extensions to the movie generating source tex
 
 ## Authors
 
-* **Andrew Coker** - *Initial work*
+* **[Andrew Coker](https://github.com/voidstaroz)** - *Initial work in Python*
 * **[David Morgan-Mar](https://github.com/dmmaus)** - *PHP conversion*
 
 See also the list of [contributors](https://github.com/dmmaus/mezzacotta-cinematique/contributors) who participated in this project.
